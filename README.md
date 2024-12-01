@@ -50,3 +50,4 @@ python main.py
 
 ## 📱 **Screenshots**
 
+![Gameplay Screenshot](assets/Screenshot%202024-12-01%20174920.png)
