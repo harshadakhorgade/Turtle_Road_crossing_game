@@ -1,9 +1,3 @@
-# Turtle_Road_crossing_game
-
-Got it! Here’s a simplified and updated **README.md** for your **Turtle Road Crossing Game**, reflecting that it’s a simple game where only the **Up arrow key** is used to control the turtle.
-
----
-
 # Turtle Road Crossing Game 🚗🐢
 
 Welcome to the **Turtle Road Crossing Game**! This is a simple yet fun game built using Python's **Turtle Graphics**. Help the turtle safely cross a busy road without getting hit by moving cars! 
